@@ -1,0 +1,4 @@
+In order to run, execute the following commands in sequence: (Prerequisite : Anaconda should be installed)
+
+1. bash setup_enviroment.sh
+2. python hand_detection
